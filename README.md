@@ -1,35 +1,18 @@
 # Bash-Script-Project-DBMS-ITI
 
-A simple DBMS system built using **Bash Shell Scripting**, developed as part of the ITI (Information Technology Institute) training. It mimics basic database functionality such as creating databases, tables, inserting records, and querying data—all through command-line interface.
+This project is a simple yet powerful command-line database management system developed using Bash scripting as part of the ITI training program. It demonstrates fundamental DBMS functionalities such as creating databases, managing tables, inserting, updating, and querying records.
 
----
+I am honored to have been an integral part of this project, collaborating closely with a talented team of professionals.
 
-## 🧩 Features
+- **Shimaa Nasser** 
+  [GitHub](https://github.com/shimaaNasserr)  
 
-- Create and delete databases
-- Create and drop tables
-- Define table schema with data types
-- Insert records into tables
-- Select and display records
-- Delete and update records
-- Simulated constraints (like primary keys)
-- Simple command-line menus
+- **Mohamed El-Hadidy**
+  [GitHub](https://github.com/momo01055789)  
 
----
+This project reflects our collective expertise, dedication, and commitment to delivering a functional and educational tool. It stands as a testament to our teamwork and continuous learning.
 
-## 🛠️ Technologies Used
+For more information and to access the original repository, please visit:  
+[https://github.com/shimaaNasserr/Bash-Script-Project-DBMS-ITI](https://github.com/shimaaNasserr/Bash-Script-Project-DBMS-ITI)
 
-- **Bash Shell Scripting**
-- Linux File System
-- Command-line interface (CLI)
-
----
-
-## 🚀 How to Run
-
-1. Open a terminal.
-2. Clone or download this repository.
-3. Give execution permission to the main script:
-
-```bash
-chmod +x main.sh
+We take great pride in our achievements and welcome any constructive feedback or contributions to further improve this project.
